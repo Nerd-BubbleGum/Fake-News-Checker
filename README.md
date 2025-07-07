@@ -26,10 +26,10 @@ This is a simple Streamlit web app that allows users to:
 
 ---
 
- 🚀 Run Locally
-```bash
-streamlit run app.py
+❤️ Crafted with love by Abhiraj
 
 ---
 
-❤️ Crafted with love by Abhiraj
+ 🚀 Run Locally
+```bash
+streamlit run app.py
